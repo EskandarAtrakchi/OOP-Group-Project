@@ -209,6 +209,6 @@ public class Main {
         // Create an appointment
         Appointment appointment1 = new Appointment("john_doe", "dr_smith", "2023-10-30 10:00 AM");
 
-        // You can perform various operations with these objects as needed.
+        
     }
 }
