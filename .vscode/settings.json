@@ -5,3 +5,16 @@
         "syntax_highlighting": true
     }
 }
+/*
+{
+    "document_writer": {
+        "style": "reStructuredText",
+        "options": {
+            "indentation": "4 spaces",
+            "line_length": "80 characters",
+            "syntax_highlighting": true
+        }
+    }
+}
+
+*/
