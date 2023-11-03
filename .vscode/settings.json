@@ -1,0 +1,6 @@
+{
+    "docwriter.style": "reST",
+    "options": {
+        "syntax_highlighting": true
+    }
+}
